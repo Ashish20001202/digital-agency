@@ -1,0 +1,740 @@
+/* ------------------start-navbar------------------ */
+
+.padding-navbar{
+    padding-top: 2.8125rem;
+}
+
+.digital-agency{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    text-transform: uppercase;
+}
+
+.nav-item{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.dark-mode {
+    background-color: black;
+}
+
+.button-border{
+    border: none;
+    background: none;
+}
+/* ------------------end-navbar------------------ */
+
+
+/* =========================start-row-1========================== */
+
+.padding-row-1{
+    padding-top: 6.25rem;
+}
+
+.building-digital{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+
+.digital-agency-is-your{
+    padding-top: 1.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-transform: capitalize;
+}
+
+.contact-button-padding{
+    padding-top: 2.4375rem;
+}
+
+.contact-button{
+    padding-left: 2.1875rem;
+    padding-top: 0.625rem;
+    padding-right: 2.1875rem;
+    padding-bottom: 0.625rem;
+    background: #8EADD5;
+    border-radius: 0.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    color: #FFFFFF;
+    border: #FFFFFF;
+}
+
+/* ==========================end-row-1=========================== */
+
+
+
+
+
+
+
+
+/* =========================start-row-2========================== */
+
+.padding-row-2{
+    padding-top: 12.5rem;
+}
+
+.trusted-by{
+    padding-bottom: 1rem;
+}
+
+.padding-card{
+    padding-left: 1.25rem;
+    padding-top: 1.25rem;
+    padding-right: 1.875rem;
+    padding-bottom: 1.25rem;
+    background: #bbe3e3;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.icon-size{
+    font-size: 2.25rem;
+    padding-top: 0.3125rem;
+}
+
+.icon-text{
+    font-size: 1.75rem;
+    font-weight: 700;
+    
+}
+
+.zoom{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+/* ==========================end-row-2=========================== */
+
+
+
+
+
+
+
+/* =========================start-row-3========================== */
+
+.padding-row-3{
+    padding-top: 9.375rem;
+}
+
+.branding{
+    padding-top: 5.9375rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 100%;
+    text-transform: capitalize;
+}
+
+.commonly-used{
+    padding-top: 1.5625rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    text-transform: capitalize;
+    color: #272D38;
+}
+    
+
+
+/* ==========================end-row-3=========================== */
+
+
+
+
+
+
+/* =========================start-row-4========================== */
+
+.padding-row-4{
+    padding-top: 8.75rem;
+}
+
+.custome{
+    padding-top: 5.625rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 100%;
+    text-transform: capitalize;
+    color: #272D38;
+}
+
+.commonly-used-grahpic{
+    padding-top: 1.5625rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    text-transform: capitalize;
+    color: #272D38;
+}
+
+/* ==========================end-row-4=========================== */
+
+
+
+
+
+/* =========================start-row-5========================== */
+
+.padding-row-5{
+    padding-top: 8.75rem;
+}
+
+.testimonials{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    text-transform: capitalize;
+    color: #272D38;
+}
+
+.read-what{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    color: #272D38;
+}
+
+.padding-card-2{
+    padding-top: 2.5rem;
+}
+
+.card-style-1{
+    background: #bbe3e3;
+    border-radius: 1.25rem;
+    border: none;
+}
+
+.card-style-2{
+    background: #bbe3e3;
+    border-radius: 1.25rem;
+    border: none;
+}
+
+.card-style-3{
+    background: #bbe3e3;
+    border-radius: 1.25rem;
+    border: none;
+}
+
+/* ==========================end-row-5=========================== */
+
+
+/* =========================start-row-6========================== */
+
+.padding-row-6{
+    padding-top: 8.75rem;
+    padding-bottom: 9.375rem;
+}
+
+.big-card{
+    background: #bbe3e3;
+    border-radius: 1.25rem;
+    border: none;
+}
+
+.be-a-part{
+    padding-top: 5.625rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 100%;
+    color: #272D38;
+
+}
+
+.we-work-with{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    color: #272D38;
+
+}
+
+.contact-button-padding-2{
+    padding-top: 1.875rem;
+}
+
+.contact-button-2{
+    padding-left: 2.1875rem;
+    padding-top: 0.625rem;
+    padding-right: 2.1875rem;
+    padding-bottom: 0.625rem;
+    background: #8EADD5;
+    border-radius: 0.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    color: #FFFFFF;
+    border: #FFFFFF;
+}
+
+
+/* ==========================end-row-6=========================== */
+
+
+/* =========================start-row-7========================== */
+
+.padding-row-7{
+    padding-top: 6.25rem;
+    padding-bottom: 1.875rem;
+    background: #93adee;
+}
+
+.digital-pad{
+    padding-left: 7.5rem;
+}
+
+.footer-heading{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.375rem;
+    line-height: 1.75rem;
+    text-transform: capitalize;
+    color: #272D38;
+
+}
+
+.footer-content{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.1875rem;
+    line-height: 150%;
+    text-transform: capitalize;
+    color: #272D38;
+    list-style: none;
+}
+
+.matheus{
+    padding-top: 8.125rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 100%;
+    color: #272D38;
+}
+
+
+
+/* ==========================end-row-7=========================== */
+
+
+
+
+
+/* ---- mobile view media query ---- */
+/* Start Mobile view */
+
+@media all and (min-width: 577px)
+{
+    .display-none-for-desktop-view{
+        display: none;
+    }
+
+    .padding-card-for-mobile{
+        display: none;
+    }
+
+    .arrow-down-desktop{
+        display: none;
+    }
+
+    .image-row-3-desktop{
+        display: none;
+    }
+
+}
+
+
+@media all and (max-width: 576px)
+{   
+    /* ------------row-1-------------- */
+    .navbar-toggler {
+        font-size: 1rem;
+        border: none;
+    }
+
+    .digital-agency {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 0.9375rem;
+        line-height: 1.5rem;
+        text-transform: uppercase;
+    }
+
+    .padding-row-1 {
+        padding-top: 5.625rem;
+    }
+
+    .building-digital {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2.4375rem;
+        line-height: 100%;
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    .digital-agency-is-your {
+        padding-top: 1.5rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.75rem;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    .contact-button-padding {
+        padding-top: 1.5rem;
+        padding-bottom: 2.8125rem;
+        text-align: center;
+    }
+
+    .contact-button {
+        padding-left: 1.25rem;
+        padding-top: 0.3125rem;
+        padding-right: 1.25rem;
+        padding-bottom: 0.3125rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 0.875rem;
+        line-height: 1.75rem;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    .form-switch {
+        padding-left: 2rem;
+        text-align: start;
+    }
+
+
+    /* --------------row-2----------------- */
+
+    .padding-row-2 {
+        padding-top: 7.5rem;
+    }
+
+    .diplay-none-mobile-view{
+        display: none;
+    }
+
+    .padding-card-for-mobile{
+        padding-top: 1.5625rem;
+        padding-bottom: 1.5625rem;
+        background: #bbe3e3;
+        border-radius: 0.5rem;
+        border: none;
+    }
+
+    .icon-text-mobile{
+        font-size: 0.9375rem;
+        font-weight: 700;
+    }
+    
+
+    /* ---------------row-3----------------- */
+
+    .padding-row-3 {
+        padding-top: 5.5rem;
+    }
+
+    .image-row-3-mobile{
+        display: none;
+    }
+
+    .branding {
+        padding-top: 0rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 100%;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+
+    }
+
+    .commonly-used {
+        padding-top: 1.5rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 0.875rem;
+        line-height: 1.75rem;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    .arrow-right-mobile{
+        display: none;
+    }
+
+    .arrow-down-desktop{
+        padding-left: 10rem;
+        padding-top: 0.625rem;
+        padding-bottom: 1.5625rem;
+    }
+
+    /* ----------------row-4----------------- */
+    .padding-row-4 {
+        padding-top: 7.5rem;
+    }
+
+    .custome {
+        padding-top: 0rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 100%;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    .commonly-used-grahpic {
+        padding-top: 1.5rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 0.875rem;
+        line-height: 1.75rem;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    /* ---------------row-5----------------- */
+
+    .padding-row-5 {
+        padding-top: 7.5rem;
+    }
+    
+    .testimonials {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 0.75rem;
+        line-height: 1.75rem;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    .read-what {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 100%;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+    
+    .padding-card-2 {
+        padding-top: 1rem;
+        padding-left: 0.625rem;
+        padding-right: 0.625rem;
+    }
+
+    .padding-top-card-mobile{
+        padding-top: 1.5625rem;
+    }
+
+    /* ---------------row-6---------------- */
+
+    .image-row-mobile{
+        display: none;
+    }
+
+    .padding-row-6 {
+        padding-top: 7.5rem;
+        padding-bottom: 8.125rem;
+        padding-left: 1.375rem;
+        padding-right: 1.375rem;
+    }
+
+    .be-a-part {
+        padding-left: 2.1875rem;
+        padding-right: 2.1875rem;
+        padding-top: 3.5rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 100%;
+        text-align: center;
+        color: #272D38;
+    }
+
+    .we-work-with {
+        padding-top: 1.25rem;
+        padding-left: 2.0625rem;
+        padding-right: 1.25rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #272D38;
+    }
+
+    .contact-button-padding-2 {
+        padding-top: 1.875rem;
+        padding-bottom: 0.9375rem;
+        text-align: center;
+    }
+
+    .contact-button-2 {
+        padding-left: 1.25rem;
+        padding-top: 0.3125rem;
+        padding-right: 1.25rem;
+        padding-bottom: 0.3125rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 0.875rem;
+        line-height: 1.75rem;
+        text-transform: uppercase;
+        color: #FFFFFF;
+    }
+
+    /* ----------------row-7------------------- */
+
+    .digital-pad{
+        padding-left: 1.125rem;
+    }
+
+    .padding-heading-mobile{
+        text-align: center;
+        padding-bottom: 3.125rem;
+    }
+
+    .footer-heading{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        text-transform: capitalize;
+        color: #272D38;
+
+    
+    }
+    
+    .footer-content{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 150%;
+        text-align: center;
+        text-transform: capitalize;
+        color: #272D38;
+    }
+
+    .matheus {
+        padding-top: 5.75rem;
+        padding-left: 2.5rem;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 100%;
+        color: #272D38;
+    }
+
+
+}
+
+@media (min-width: 577px)
+{
+    html{
+        font-size: 40%;
+    }
+
+}
+
+@media (min-width: 768px)
+{
+    html{
+        font-size: 45%;
+    }
+}
+
+@media (min-width: 992px)
+{
+    html{
+        font-size: 60%;
+    }
+}
+
+
+@media (min-width: 1200px)
+{
+    html{
+        font-size: 80%;
+    }
+}
+
+@media (min-width: 1920px)
+{
+    html{
+        font-size: 100%;
+    }
+
+    
+}
+
+/* End Mobile Views */
+
